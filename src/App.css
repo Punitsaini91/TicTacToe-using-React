@@ -1,0 +1,15 @@
+.buttons{
+  width: 100px;
+  height: 100px;
+  background-color: aqua;
+  font-size: 40px;
+}
+.Containeer{
+
+  width: 315px;
+  border: 4px solid black;
+  margin: auto;
+  background-color: brown;
+
+}
+
